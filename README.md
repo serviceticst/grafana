@@ -1,6 +1,5 @@
 Script para instalação automatizada do grafana no Oracle Linux 8
 
-
 #  Desenvolvido por: Service TIC Solucoes Tecnologicas
 #            E-mail: contato@servicetic.com.br
 #              Site: www.servicetic.com.br
