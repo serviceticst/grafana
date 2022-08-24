@@ -12,6 +12,8 @@
 #           Twitter: https://twitter.com/serviceticst
 #           YouTube: https://youtube.com/c/serviceticst
 #
+#          Tutorial: https://www.youtube.com/watch?v=iBBzYSutBHg&t
+#              Blog: https://servicetic.com.br/grafana-instalacao-automatizada-no-oracle-linux-8
 #-------------------------------------------------
 #
 echo "#--------------------------------------------------------#"
