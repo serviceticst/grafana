@@ -1,4 +1,4 @@
-# 🇧🇷 🧩 Scripts para ferramenta [Grafana](https://grafana.com)
+# <img src="https://flagcdn.com/w40/br.png" width="40"> 🧩 Scripts para ferramenta [Grafana](https://grafana.com)
 
 - Este repositório reúne scripts para o Grafana desenvolvidos pela equipe da Service TIC.
 - A cada nova versão, disponibilizamos novos scripts e atualizações para os existentes, visando aprimorar a automação e a gestão da ferramenta.
@@ -9,7 +9,7 @@
 
 ***
 
-## 🇺🇸 🧩 Scripts for [Grafana](https://grafana.com) tool
+## <img src="https://flagcdn.com/w40/us.png" width="40"> 🧩 Scripts for [Grafana](https://grafana.com) tool
 - This repository contains Grafana scripts developed by the Service TIC team.
 - With each new release, we provide additional scripts and updates to existing ones to enhance tools automation and management.
 
